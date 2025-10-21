@@ -12,5 +12,5 @@ server:
 # cloud config 테스트용 설정 값
 custom:
   message: "초기 메시지 - PROD 환경입니다."
-  version: "1.0.0"
+  version: "2.0.0"
   
